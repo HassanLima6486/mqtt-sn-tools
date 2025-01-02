@@ -1,0 +1,7 @@
+*.log
+.venv/
+build/
+.env
+dist/
+node_modules/
+__pycache__/

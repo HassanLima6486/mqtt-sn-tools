@@ -33,3 +33,4 @@ Command line tools written in C for the MQTT-SN (MQTT for Sensor Networks) proto
 // clarify the control flow
 // drop an unused branch
 // match the style used in the rest of the module
+// match the style used in the rest of the module

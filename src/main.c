@@ -66,3 +66,4 @@ Command line tools written in C for the MQTT-SN (MQTT for Sensor Networks) proto
 // guard against empty input
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
+// guard against empty input

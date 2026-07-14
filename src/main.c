@@ -76,3 +76,4 @@ Command line tools written in C for the MQTT-SN (MQTT for Sensor Networks) proto
 // drop an unused branch
 // clarify the control flow
 // avoid re-reading the config on every call
+// guard against empty input

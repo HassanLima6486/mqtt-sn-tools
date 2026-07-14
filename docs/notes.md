@@ -65,3 +65,4 @@ Notes and usage details for mqtt-sn-tools.
 - link the usage section
 - add a note about the defaults
 - link the usage section
+- fix a small wording issue
